@@ -19,4 +19,4 @@ You can find the data sets on the following link: https://www.kaggle.com/competi
 
 
 As you can see below, the class distribution is very unbalanced.
-<img src="images/class_distribution">
+<img src="images/class_distribution.png">
