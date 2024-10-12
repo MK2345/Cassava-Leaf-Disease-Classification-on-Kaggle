@@ -26,10 +26,10 @@ You can find the data sets on the following link: https://www.kaggle.com/competi
 </p> 
 
 
-As you can see below, the class distribution is very unbalanced.
+
 
 <p align="center">
-    Dies ist ein zentrierter Text.
+    As you can see below, the class distribution is very unbalanced.
 </p>
 
 <!--<img src="images/class_distribution.png">-->
