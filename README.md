@@ -11,7 +11,7 @@ Kaggle offers several data sets of cassava leaves.
 
 This competition was about distinguishing between different diseases that harm the food supply of many African countries. In some cases, the main remedy is to burn the infected plants to prevent further spread, which can make a quick, automated remedy quite useful for farmers.
 
-The task was to identify the type of disease from a picture of a cassava leaf.
+The task was to identify the type of disease from an image of a cassava leaf.
  
 You can find the data sets on the following link: https://www.kaggle.com/competitions/cassava-leaf-disease-classification/data
 
