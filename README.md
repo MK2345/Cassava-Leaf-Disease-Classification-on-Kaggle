@@ -1,5 +1,5 @@
 # Cassava-Leaf-Disease-Classification-on-Kaggle
-Kaggle hosts several datasets of Cassava Leaves. Here is a CNN model I created.
+Kaggle hosts several datasets of Cassava Leaves. Here is a CNN model I created. You will find the model in the master branch.
 
 You can find the data sets on the following link: https://www.kaggle.com/competitions/cassava-leaf-disease-classification/data
 
