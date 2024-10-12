@@ -19,13 +19,11 @@ You can find the data sets on the following link: https://www.kaggle.com/competi
 
 <img src="https://github.com/MK2345/Cassava-Leaf-Disease-Classification-on-Kaggle/assets/24621381/43a0a841-f215-4345-99f6-a0c77eee7b0e" alt="Cassava Leaf" width="75%">
 
-&nbsp;  
-&nbsp;  
 
-![Cassava Leaf](https://github.com/MK2345/Cassava-Leaf-Disease-Classification-on-Kaggle/assets/24621381/43a0a841-f215-4345-99f6-a0c77eee7b0e)
 
-&nbsp;  
-&nbsp;  
+<p align="center">
+    <img src="https://github.com/MK2345/Cassava-Leaf-Disease-Classification-on-Kaggle/assets/24621381/43a0a841-f215-4345-99f6-a0c77eee7b0e" alt="Cassava Leaf" width="50%">
+</p> 
 
 As you can see below, the class distribution is very unbalanced.
 
