@@ -6,6 +6,4 @@ You can find the data sets on the following link: https://www.kaggle.com/competi
 ![Cassava_Leaf](https://github.com/MK2345/Cassava-Leaf-Disease-Classification-on-Kaggle/assets/24621381/43a0a841-f215-4345-99f6-a0c77eee7b0e)
 
 
-As you can see below, the class distribution is very unbalanced.
 
-<img src="images/class_distribution.png">
